@@ -64,7 +64,7 @@ Lower Log Loss indicates better performance.
 
 ## ⚙️ Modeling Approach
 
-Our solution follows a standard **deep learning computer vision pipeline**, including:
+Top solutions follow a standard **deep learning computer vision pipeline**, including:
 
 ### 1️⃣ Data Preparation
 
@@ -114,15 +114,3 @@ Automated face mask detection systems can support public health infrastructure b
 * Supporting policy enforcement during health crises
 
 Machine learning solutions like this can contribute to **safer public environments during infectious disease outbreaks**.
-
----
-
-If you'd like, I can also help you make a **much stronger GitHub README** by adding:
-
-* **architecture diagram**
-* **training pipeline figure**
-* **example predictions**
-* **model performance table**
-* **inference demo**
-
-Those make repos look **much more professional for research, internships, and GitHub portfolios**.
