@@ -1,6 +1,6 @@
 # 🌍 Climate Risk and Health Prediction Challenge (CMU University Hackathon)
 
-![Climate Risk and Health Prediction Challenge](IMG/CompPage.png)
+![Climate Risk and Health Prediction Challenge](IMG/CompPage.jpg)
 
 ## Can you detect climate-linked patterns in mortality data?
 
