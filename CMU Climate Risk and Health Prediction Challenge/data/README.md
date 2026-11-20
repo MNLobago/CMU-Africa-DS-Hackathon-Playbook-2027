@@ -9,7 +9,7 @@ The challenge data is **not stored in this repository**. Get it from one of thes
   - On Kaggle, attach it to your notebook with **Add Input**.
   - Elsewhere, run: `kaggle datasets download moanlobago/climate-health-risk-hackathon-data -p data --unzip`
 
-Put the files in this folder:
+Put the files in this folder;
 
 ```
 data/
