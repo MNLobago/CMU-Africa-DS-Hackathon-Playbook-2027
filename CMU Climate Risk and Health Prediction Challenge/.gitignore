@@ -1,0 +1,3 @@
+# Challenge data and submissions stay out of the repository (get the data via data/README.md)
+*.csv
+*.zip
